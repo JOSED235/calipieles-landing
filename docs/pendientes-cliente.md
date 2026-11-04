@@ -17,7 +17,7 @@
 - [ ] Rol de Mónica Pinilla y de **JF Cueros**. ¿JF Cueros va en la web?
 - [ ] ¿La persona de `imagenes/mostrador-bodega.jpg` es Robeiro? ¿Autoriza usar su foto?
 - [ ] Número de WhatsApp para pedidos. ¿Es el 320 612 6523?
-- [ ] Horario actual. El del sitio es de 2020–2021.
+- [x] Horario: lunes a viernes 8:30–12:00 y 2:00–5:00; sábado 8:30–1:00 (confirmado 2026-11-04).
 - [ ] Lista real de productos: tipos de cuero, sintéticos, insumos (hilos, herrajes, pegantes, forros), y si venden por metro, pieza o pie².
 - [ ] ¿Publicamos precios o solo "consultar"?
 - [ ] Envíos nacionales: transportadora, costo y tiempos.

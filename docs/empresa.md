@@ -68,10 +68,12 @@ Lo que muestran las fotos reales (ver [imagenes/](imagenes/README.md)):
 - **Dirección vieja en directorios:** Calle 16 # 8-120, Local 107 (Infoisinfo). Es probablemente un local anterior y hay que corregir esa ficha.
 - **Zona:** el centro de Cali (Carreras 8 a 10, Calles 15 a 18) concentra peleterías y comercios de calzado y marroquinería. Ahí también están Surtipieles Cali (Cra 9 # 18-50) y Distribuidora Peles Cali (Kr 9 # 18-30).
 
-## Horario (según el sitio UENI)
+## Horario
+
+Confirmado por quien contrata el proyecto (2026-11-04). Reemplaza el del sitio UENI, que decía 8:00–12:00 y 2:00–6:00.
 
 | Día | Horario |
 |---|---|
-| Lunes a viernes | 8:00 a. m. – 12:00 p. m. y 2:00 p. m. – 6:00 p. m. |
-| Sábado | 8:00 a. m. – 1:00 p. m. |
+| Lunes a viernes | 8:30 a. m. – 12:00 m. y 2:00 p. m. – 5:00 p. m. |
+| Sábado | 8:30 a. m. – 1:00 p. m. |
 | Domingo | Cerrado |
