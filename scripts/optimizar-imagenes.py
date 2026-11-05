@@ -18,6 +18,11 @@ FOTOS = {
     "cueros-grabado-mantarraya": (1000, None),
     "napas-lisas-colores-pastel": (1000, None),
     "cueros-metalizados-lentejuela": (1000, None),
+    # fotos de referencias nuevas (2026-11), tomadas con celular en vertical 9:16
+    "cueros-hidra": (1000, None),
+    "cueros-malibu-folia": (1000, None),
+    "cueros-aspid": (1000, None),
+    "cueros-aspid-folia": (1000, None),
 }
 
 DESTINO.mkdir(exist_ok=True)

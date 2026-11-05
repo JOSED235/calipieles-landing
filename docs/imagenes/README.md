@@ -12,6 +12,10 @@ Son fotos originales en resolución completa, descargadas del sitio UENI y subid
 | `cueros-grabado-mantarraya.jpg` | Grabado tipo mantarraya o galuchat en azul, marrón, cognac y blanco | Sí |
 | `napas-lisas-colores-pastel.jpg` | Napas lisas: camel, rojo, durazno, gris, coral, rosa y beige | Sí |
 | `cueros-metalizados-lentejuela.jpg` | Metalizados o lentejuela en plata, rojo, negro y gris. La foto está algo desenfocada | Regular |
+| `cueros-hidra.jpg` | Referencia Hidra: grabado serpiente en gris perla, plata, hueso, beige, negro y rojo (2026-11) | Sí |
+| `cueros-malibu-folia.jpg` | Referencia Malibú folia: serpiente con folia metalizada plata, oro rosa y grafito (2026-11) | Sí |
+| `cueros-aspid.jpg` | Referencia Áspid: escama en zigzag, blanco hueso con reflejo tornasol (2026-11) | Sí |
+| `cueros-aspid-folia.jpg` | Referencia Áspid folia: veta atigrada brillante en plata, champaña y chocolate (2026-11) | Sí |
 
 Hay una foto de stock que no se incluye: `shutterstock_144884494.jpg`, la portada del sitio UENI. Es de Shutterstock, con licencia de UENI, y no se puede reutilizar.
 

@@ -28,4 +28,5 @@
 - [ ] Logo en vector. ¿Quieren conservarlo o renovarlo?
 - [ ] Fotos nuevas: local, fachada, mostrador y productos con buena luz. Las actuales son de 2020.
 - [ ] Dominio: ¿compramos `calipieles.com` o `calipieles.com.co`? Hay que verificar si están disponibles.
+- [ ] Al tener dominio: cambiar `og:url` y `og:image` en `index.html` (hoy apuntan a GitHub Pages) y agregar el archivo `public/CNAME`.
 - [ ] ¿Cancelar el sitio UENI cuando salga el nuevo y redirigir?

@@ -213,11 +213,19 @@ p { margin: 0 0 1em; }
 .horizontal { height: 100vh; padding-top: 96px; display: flex; flex-direction: column; overflow: hidden; }
 .horizontal .muestrario-cabeza { margin-bottom: 28px; }
 .horizontal .pista { overflow: visible; scroll-snap-type: none; width: max-content; padding-bottom: 48px; flex: 1; min-height: 0; }
-.horizontal .muestra { flex-basis: auto; width: min(30vw, 420px); }
-.horizontal .muestra figure { aspect-ratio: auto; flex: 1; min-height: 0; }
+/* Las fotos son verticales: la foto ocupa toda la altura disponible y el texto va al lado, abajo */
+.horizontal .muestra {
+  flex: none; display: grid; column-gap: 24px;
+  grid-template-columns: auto 240px; grid-template-rows: 1fr repeat(5, auto);
+}
+.horizontal .muestra figure { grid-row: 1 / -1; height: 100%; aspect-ratio: 3 / 4; margin: 0; }
+.horizontal .muestra > :not(figure) { grid-column: 2; }
+.horizontal .muestra h3 { grid-row: 2; }
+.horizontal .muestra p:not(.usos) { grid-row: 3; }
+.horizontal .muestra .usos { grid-row: 4; }
+.horizontal .muestra .colores { grid-row: 5; }
 .horizontal .muestra img { position: absolute; inset: 0; }
-.horizontal .muestra .boton { margin-top: 0; }
-.horizontal .muestra p:not(.usos) { min-height: 3.2em; }
+.horizontal .muestra .boton { grid-row: 6; justify-self: start; margin-top: 0; }
 .horizontal .progreso { display: block; margin-top: 0; margin-bottom: 32px; }
 
 /* Lupa para ver la textura del cuero */
